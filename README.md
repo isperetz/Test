@@ -2,10 +2,7 @@
 Play
 
 # -*- coding: utf-8 -*-
-"""
 
-@author: isperetz
-"""
 # Paste your function here
 """
 def closest_power(base,num):
