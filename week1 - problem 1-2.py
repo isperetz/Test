@@ -10,7 +10,7 @@ Created on Mon Jun  5 11:49:48 2017
 #For example, if s = 'azcbobobegghakl', your program should print:
 # Number of vowels: 5
 
-s = 'azcbobobegghaklv'
+s = 'azcbobobegghaklvgg'
 numvow = 0
 for chr in s:
    if chr in 'aeiou':
